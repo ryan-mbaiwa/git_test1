@@ -1,0 +1,32 @@
+body{
+    background-color: blanchedalmond;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: 200;
+    margin: 0 auto;
+    
+}
+#one{
+    width: 95% auto;
+
+}
+header{
+    background-color: cadetblue;
+    color: 000000;
+    border: 1px dotted #94dd26;
+    width: 80% auto;
+    text-align: center;
+    
+}
+.my-thin-header{
+    padding: 0.5em;
+    margin: 0;
+}
+nav{
+    list-style
+    list-style-position: ;
+    
+}
+a:hover{
+color: #94dd26;
+}
